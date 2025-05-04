@@ -49,7 +49,7 @@ def datos():
     nombre = "Javier"
     edad = 41
 
-    print(f"Hola mi nimbre es {nombre} y tengo {edad} años")
+    print(f"Hola mi nombre es {nombre} y tengo {edad} años")
 
 datos()
 
