@@ -35,7 +35,7 @@ AreaRectangulo()
 def DiasVividos():
     # Definición de variables
     edad = int(input("¿Cuántos años tienes? "))
-    diasvividos = 356
+    diasvividos = 365
     total = edad * diasvividos
 
     print(f"Has vivido un total de {total} dias")
