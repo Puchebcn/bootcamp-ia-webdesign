@@ -17,3 +17,4 @@ def realizar_operaciones(numero1, numero2):
     resta = numero1 - numero2
     multiplicacion = numero1 * numero2
     print(f"La suma es = {suma}, la resta es = {resta}, la multiplicación es = {multiplicacion}")
+
