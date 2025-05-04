@@ -42,4 +42,12 @@ print(f"El número es: {Numero}, el decimal es: {Decimal}, el texto es: {Texto},
 print("Hola, mi nombre es " + nombre + " y tengo " + str(edad) + " años.")
 print("El número es: " + str(Numero) + ", el decimal es: " + str(Decimal) + ", el texto es: " + Texto + ", el booleano es: " + str(Booleano) + ", la lista es: " + str(Lista) + ", la tupla es: " + str(Tupla) + ", el diccionario es: " + str(Diccionario))
 
+#2. Tipos de datos básicos en Python
 
+#Tipo	Ejemplo	Descripción
+#int	5, -12, 100	Enteros
+#float	3.14, -1.5	Decimales
+#str	"Hola"	Texto (cadena de caracteres)
+#bool	True, False	Booleano (verdadero o falso)
+#list	[1, 2, 3], ["a", "b"]	Lista de elementos
+#dict	{"nombre": "Ana", "edad": 30}	Diccionario con claves y valores
