@@ -49,5 +49,5 @@ print("El número es: " + str(Numero) + ", el decimal es: " + str(Decimal) + ", 
 #float	3.14, -1.5	Decimales
 #str	"Hola"	Texto (cadena de caracteres)
 #bool	True, False	Booleano (verdadero o falso)
-#list	[1, 2, 3], ["a", "b"]	Lista de elementos
+#list	[1, 2, 3], ["a", "b"]	Lista de elementosd
 #dict	{"nombre": "Ana", "edad": 30}	Diccionario con claves y valores
